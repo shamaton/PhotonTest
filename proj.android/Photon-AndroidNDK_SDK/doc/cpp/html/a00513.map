@@ -1,0 +1,36 @@
+<map id="Base" name="Base">
+<area shape="rect" id="node5" href="$a00053.html" title="Channel" alt="" coords="264,5,325,29"/>
+<area shape="rect" id="node7" href="$a00051.html" title="BaseCharString" alt="" coords="245,53,344,77"/>
+<area shape="rect" id="node13" href="$a00057.html" title="CustomTypeBase" alt="" coords="241,101,348,125"/>
+<area shape="rect" id="node17" href="$a00058.html" title="CustomTypeFactory\&lt;\l typeCode \&gt;" alt="" coords="232,150,357,186"/>
+<area shape="rect" id="node19" href="$a00059.html" title="DeSerializer" alt="" coords="255,211,335,235"/>
+<area shape="rect" id="node21" href="$a00061.html" title="DictionaryBase" alt="" coords="247,259,342,283"/>
+<area shape="rect" id="node28" href="$a00062.html" title="EGTime" alt="" coords="265,307,324,331"/>
+<area shape="rect" id="node30" href="$a00065.html" title="Hashtable" alt="" coords="259,355,330,379"/>
+<area shape="rect" id="node36" href="$a00067.html" title="JVector\&lt; Etype \&gt;" alt="" coords="242,811,347,835"/>
+<area shape="rect" id="node38" href="$a00067.html" title="JVector\&lt; Common::ExitGames\l::Common::JString \&gt;" alt="" coords="562,813,729,849"/>
+<area shape="rect" id="node40" href="$a00067.html" title="JVector\&lt; ExitGames\l::LoadBalancing::Player * \&gt;" alt="" coords="570,569,721,605"/>
+<area shape="rect" id="node42" href="$a00067.html" title="JVector\&lt; nByte \&gt;" alt="" coords="592,657,699,681"/>
+<area shape="rect" id="node44" href="$a00067.html" title="JVector\&lt; ExitGames\l::Chat::Channel \&gt;" alt="" coords="585,475,705,511"/>
+<area shape="rect" id="node46" href="$a00067.html" title="JVector\&lt; Common::ExitGames\l::Common::Object \&gt;" alt="" coords="562,719,729,755"/>
+<area shape="rect" id="node48" href="$a00067.html" title="JVector\&lt; ExitGames\l::LoadBalancing::FriendInfo \&gt;" alt="" coords="564,883,727,919"/>
+<area shape="rect" id="node50" href="$a00067.html" title="JVector\&lt; ExitGames\l::LoadBalancing::Room * \&gt;" alt="" coords="571,966,719,1002"/>
+<area shape="rect" id="node52" href="$a00067.html" title="JVector\&lt; ExitGames\l::LoadBalancing::LobbyStats \&gt;" alt="" coords="561,1046,730,1082"/>
+<area shape="rect" id="node54" href="$a00067.html" title="JVector\&lt; ExitGames\l::Common::Object \&gt;" alt="" coords="585,1134,705,1170"/>
+<area shape="rect" id="node56" href="$a00078.html" title="Object" alt="" coords="268,1223,321,1247"/>
+<area shape="rect" id="node62" href="$a00087.html" title="Serializer" alt="" coords="261,1271,328,1295"/>
+<area shape="rect" id="node64" href="$a00064.html" title="FriendInfo" alt="" coords="259,1319,330,1343"/>
+<area shape="rect" id="node66" href="$a00072.html" title="LobbyStats" alt="" coords="256,1367,333,1391"/>
+<area shape="rect" id="node68" href="$a00085.html" title="Player" alt="" coords="269,1415,321,1439"/>
+<area shape="rect" id="node72" href="$a00086.html" title="Room" alt="" coords="270,1463,319,1487"/>
+<area shape="rect" id="node2" href="$a00088.html" title="ToString" alt="" coords="6,652,69,676"/>
+<area shape="rect" id="node9" href="$a00047.html" title="ANSIString" alt="" coords="608,53,683,77"/>
+<area shape="rect" id="node11" href="$a00091.html" title="UTF8String" alt="" coords="608,5,683,29"/>
+<area shape="rect" id="node15" href="$a00056.html" title="CustomType\&lt; typeCode \&gt;" alt="" coords="572,101,719,125"/>
+<area shape="rect" id="node23" href="$a00060.html" title="Dictionary\&lt; nByte,\l Common::Object \&gt;" alt="" coords="912,257,1024,293"/>
+<area shape="rect" id="node25" href="$a00060.html" title="Dictionary\&lt; EKeyType,\l EValueType \&gt;" alt="" coords="580,225,711,261"/>
+<area shape="rect" id="node58" href="$a00068.html" title="KeyObject\&lt; Etype \&gt;" alt="" coords="587,1271,704,1295"/>
+<area shape="rect" id="node60" href="$a00092.html" title="ValueObject\&lt; Etype \&gt;" alt="" coords="582,1223,709,1247"/>
+<area shape="rect" id="node70" href="$a00074.html" title="MutablePlayer" alt="" coords="601,1415,690,1439"/>
+<area shape="rect" id="node74" href="$a00076.html" title="MutableRoom" alt="" coords="602,1463,689,1487"/>
+</map>
